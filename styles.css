@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(26, 26, 26);
+
+
+}
+
+.cabecalho {
+    background-color: rgb(51, 102, 0); /* Cor de fundo escura */
+    color: #fff; /* Cor do texto branca */
+    padding: 20px; /* Espaçamento interno */
+    text-align: center; /* Alinha o texto ao centro */
+}
