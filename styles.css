@@ -10,3 +10,17 @@ body {
     padding: 20px; /* Espaçamento interno */
     text-align: center; /* Alinha o texto ao centro */
 }
+
+.foto-macaco {
+  display: block;
+  margin: 10000 auto;
+}
+
+p {
+    color: white
+
+}
+
+h1 {
+    color: greenyellow
+}
